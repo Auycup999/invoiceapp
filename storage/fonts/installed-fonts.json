@@ -1,0 +1,11 @@
+{
+    "thsarabunnew": {
+        "normal": "C:\\xampp\\htdocs\\invoice-app2\\storage\\fonts\/thsarabunnew_normal_fb8e6353ff13fb25e8133371e18e0c1a",
+        "bold": "C:\\xampp\\htdocs\\invoice-app2\\storage\\fonts\/thsarabunnew_bold_78a997f67eb695ff12ea236e9aea9a0f",
+        "italic": "C:\\xampp\\htdocs\\invoice-app2\\storage\\fonts\/thsarabunnew_italic_5bcb7a621ba80d9d4d530a8e94f9ea7f",
+        "bold_italic": "thsarabunnew_bold_italic_aa440c8237524be99884e6bb52f10350"
+    },
+    "glyphicons halflings": {
+        "normal": "glyphicons_halflings_normal_4ced20531a4f462a8c5c535d4debd2eb"
+    }
+}
